@@ -1,13 +1,13 @@
 <header>
-<h1 style="text-align: center;">Hi 👋, I'm Hakim AZIZI</h1>
-<p style="text-align: center;">A passionate web developer from Nantes France</p>
+<h1 align="center">Hi 👋, I'm Hakim AZIZI</h1>
+<p align="center">A passionate web developer from Nantes France</p>
 </header>
 <main>
 <section>
 <h2>Connect with me:</h2>
 <article>
 <p>
-<a href="https://linkedin.com/in/hakim-azizi" target="blank"><img style="text-align: center;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakim-azizi" height="30" width="auto"></a>
+<a href="https://linkedin.com/in/hakim-azizi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakim-azizi" height="30" width="auto"></a>
 </p>
 </article>
 </section>
