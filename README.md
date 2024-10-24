@@ -1,6 +1,6 @@
 <header>
 <h1 align="center">Hi 👋, I'm Hakim AZIZI</h1>
-<p align="center" font-size="14px">A passionate web developer from Nantes, France</p>
+<p align="center" font-size="14px">A passionate web developer from Nantes, France.</p>
 </header>
 <main>
 <section>
