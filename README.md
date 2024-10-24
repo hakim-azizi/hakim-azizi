@@ -3,15 +3,15 @@
     .center{text-align: center;}
 </style>
     <header>
-<h1 class="center">Hi 👋, I'm Hakim AZIZI</h1>
-<p class="center">A passionate web developer from Nantes France</p>
+<h1 style="text-align: center;">Hi 👋, I'm Hakim AZIZI</h1>
+<p style="text-align: center;">A passionate web developer from Nantes France</p>
 </header>
 <main>
 <section>
 <h2>Connect with me:</h2>
 <article>
 <p>
-<a href="https://linkedin.com/in/hakim-azizi" target="blank"><img class="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakim-azizi" height="30" width="40"></a>
+<a href="https://linkedin.com/in/hakim-azizi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakim-azizi" height="30" width="40"></a>
 </p>
 </article>
 </section>
