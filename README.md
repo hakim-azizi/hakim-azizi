@@ -1,4 +1,4 @@
-    <header>
+<header>
 <h1 style="text-align: center;">Hi 👋, I'm Hakim AZIZI</h1>
 <p style="text-align: center;">A passionate web developer from Nantes France</p>
 </header>
