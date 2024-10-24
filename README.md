@@ -7,7 +7,7 @@
 <h2>Connect with me:</h2>
 <article>
 <p>
-<a href="https://linkedin.com/in/hakim-azizi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakim-azizi" height="30" width="auto"></a>
+<a href="https://linkedin.com/in/hakim-azizi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="LinkedIn" alt="LinkedIn" height="30" width="auto"></a>
 </p>
 </article>
 </section>
